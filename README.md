@@ -6,7 +6,7 @@ These glyphs are now available in the patched fonts from: [Nerd Fonts](https://g
 
 ![preview](img/preview.png)
 
-_NOTE: This repo will soon probably just hold the glyphs._
+_NOTE: This repo is just a mirror of [the original](https://github.com/ryanoasis/powerline-extra-symbols) with only the glyphs and readme file._
 
 Vim preview also showing column number glyph:
 
@@ -91,11 +91,3 @@ Example configuration I have for [Banga's powerline-shell](https://github.com/ba
         	'separator_thin': u'\uE0C6'
         }
 ```
-
-## TODO
-
-* [X] ~~Add more triangles~~
-* [ ] Add more other type glyphs
-* [ ] Create Powerline symbol only font for `fontconfig`
-* [X] ~~Add to more fonts (just testing the included [Droid font](/patched-fonts) for now)~~ see: [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
-* [X] ~~Add glyph set to patcher and fonts in [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)~~
